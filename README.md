@@ -7,7 +7,6 @@
 ## 🛠️ Technologies & Tools
 
 - C++
-- Java
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Git & GitHub
